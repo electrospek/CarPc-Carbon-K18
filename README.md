@@ -1,6 +1,8 @@
 # skin.CarPc-Carbon Kodi 19
-Forked from Kodi 18
+Forked from Kodi 18. 
+
 Small changes to addon.xml to be compatible with Kodi 19 (Matrix) 
+###################################################################
 
 If you find some problems you can write me.
 
