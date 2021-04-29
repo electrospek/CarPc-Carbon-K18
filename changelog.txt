@@ -1,0 +1,12 @@
+V1.0.1
+- Small changes to addon.xml to be compatible with Kodi 19 (Matrix) - by electrospek
+
+V1.0.0
+- Initial release
+
+V0.0.1
+- Initial beta
+
+V0.0.0
+- XML from re-touched
+- Graphics from Estuary
